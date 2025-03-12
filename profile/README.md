@@ -31,4 +31,13 @@ We are always open to collaboration and partnerships. If you share our passion f
 
 ---
 
+## 💻 Developers
+- [Adharv Arun Kondath](https://github.com/adharvarun)
+- [Rylen Anil Perumkannaril](https://github.com/rylena)  
+- Nihal Muhammed Nishanth
+- Lakshmi Tejas Kumar Reddy Obulareddy
+- Rishi Rajeev
+
+---
+
 Let’s step into the future together! 🌟
